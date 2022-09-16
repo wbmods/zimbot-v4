@@ -27,7 +27,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wbmods/zimbot-v4)
 
 ## BUILD PACKS
 
@@ -46,7 +46,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ## >  THIS BOT IT USE MULTI DEVICE BAILEYS
 
-## > CHANGE LINK IN LIB FOLDER 📁📂 CHANGE HERE [`DOCKERFILE`](https://https://github.com/wbmods/zimbot-v4)
+## > CHANGE LINK IN LIB FOLDER 📁📂 CHANGE HERE [`DOCKERFILE`](https://https://github.com/zin-bot/zimbot-v4)
 
 ``` 
 apt install nodejs
@@ -71,11 +71,11 @@ echo scan the qr code and enjoy bot
 
 ## JOIN MY WHATSAPP GROUP
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IdoxATFowkYJgbqcOvctBs)
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923180327106)
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
